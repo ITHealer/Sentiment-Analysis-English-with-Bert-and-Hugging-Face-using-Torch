@@ -7,7 +7,7 @@ Mục đích của dự án này là tạo ra một tập dữ liệu tùy chỉ
 • Kho lưu trữ này bao gồm các tệp cần thiết để triển khai từ đầu đến cuối Phân tích ý kiến ​​của Ứng dụng web xử lý ngôn ngữ tự nhiên trên Google Play Đánh giá ứng dụng ngôn ngữ tự nhiên được tạo bằng ___FastApi.
 
 ## setup
-- Clone the repository : https://github.com/ITHealer/Sentiment-Analysis-with-Bert-and-Hugging-Face-using-Torch.git
+- Clone the repository : https://github.com/ITHealer/Sentiment-Analysis-English-with-Bert-and-Hugging-Face-using-Torch.git
 - Bên trong thư mục gốc của dự án, Tạo Môi trường Ảo Python và kích hoạt nó bằng các lệnh dưới đây
 ```console
 $ python3 -m venv env
