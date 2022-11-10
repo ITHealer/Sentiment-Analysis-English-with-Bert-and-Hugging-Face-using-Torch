@@ -1,4 +1,6 @@
-# Sentiment-Analysis-Google-Play-App-Reviews
+# Sentiment-Analysis-Google-Play-App-Reviews 
+
+#### Sử dụng bộ dữ liệu tiếng Anh
 
 Mục đích của dự án này là tạo ra một tập dữ liệu tùy chỉnh để phân tích tình cảm. Sử dụng dữ liệu để tinh chỉnh mô hình BERT và triển khai mô hình NLP của bạn dưới dạng API.
 
