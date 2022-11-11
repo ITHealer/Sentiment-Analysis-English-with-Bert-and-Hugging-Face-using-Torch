@@ -46,7 +46,7 @@ Sử dụng các tệp như sau để tạo dự án từ đầu hoặc tạo d�
 $ uvicorn api:app --reload
 ```
 
-## App Demo
+## App Demo (accuracy: 64% train 10 lần)
 
 ![GIF](readme_resources/sentiment-analyzer.gif)
 
